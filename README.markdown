@@ -12,4 +12,4 @@
 });</pre>
 
 <h1>Credits:</h1>
-<p>I use this directory <b>https://github.com/appcelerator/titanium_mobile</b> to make this modification.</p>
+<p>I use this directory <b>https://github.com/appcelerator/titanium_mobile</b> to make this modification. And a help of <a href="http://github.com/scuciatto">github.com/scuciatto</a>. ;-)</p>
